@@ -1,6 +1,6 @@
 # kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
+![first example](kodluyoruz.jpg)
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
